@@ -1,5 +1,5 @@
 current directory: /home/runner/work/enigmaglass/enigmaglass/pr-build/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
-/opt/hostedtoolcache/Ruby/2.7.0/x64/bin/ruby -I /opt/hostedtoolcache/Ruby/2.7.0/x64/lib/ruby/2.7.0 -r ./siteconf20221205-1714-3neack.rb extconf.rb
+/opt/hostedtoolcache/Ruby/2.7.0/x64/bin/ruby -I /opt/hostedtoolcache/Ruby/2.7.0/x64/lib/ruby/2.7.0 -r ./siteconf20221206-1692-cb9m54.rb extconf.rb
 creating Makefile
 
 current directory: /home/runner/work/enigmaglass/enigmaglass/pr-build/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
@@ -77,4 +77,4 @@ linking shared-object sassc/libsass.so
 
 current directory: /home/runner/work/enigmaglass/enigmaglass/pr-build/vendor/bundle/ruby/2.7.0/gems/sassc-2.4.0/ext
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 libsass.so ./.gem.20221205-1714-167ue7l/sassc
+/usr/bin/install -c -m 0755 libsass.so ./.gem.20221206-1692-1mqnj18/sassc
